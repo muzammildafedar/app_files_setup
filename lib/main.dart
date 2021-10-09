@@ -1,5 +1,3 @@
-library app_files_setup;
-
 import 'dart:io';
 
 startBuildingFiles() {

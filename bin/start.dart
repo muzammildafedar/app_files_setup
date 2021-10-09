@@ -1,6 +1,6 @@
-import 'package:app_file_setup/main.dart';
+import 'package:app_files_setup/main.dart' as start;
 
 void main() {
   print("Building started...");
-  startBuildingFiles();
+  start.startBuildingFiles();
 }
