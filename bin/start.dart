@@ -1,3 +1,3 @@
 void main() {
-  print("Tested");
+  print("Building started");
 }
