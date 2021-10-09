@@ -1,7 +1,7 @@
-app_file_setup
+app_files_setup
 2.12
-file:///home/muzammil/StudioProjects/app_file_setup/
-file:///home/muzammil/StudioProjects/app_file_setup/lib/
+file:///home/muzammil/StudioProjects/app_files_setup/
+file:///home/muzammil/StudioProjects/app_files_setup/lib/
 async
 2.12
 file:///home/muzammil/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/

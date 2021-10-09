@@ -140,13 +140,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "app_file_setup",
+      "name": "app_files_setup",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-10-09T13:31:39.276271Z",
+  "generated": "2021-10-09T14:23:05.401161Z",
   "generator": "pub",
   "generatorVersion": "2.15.0-23.0.dev"
 }
