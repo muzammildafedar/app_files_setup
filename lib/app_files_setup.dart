@@ -1,4 +1,4 @@
-library app_file_setup;
+library app_files_setup;
 
 class Test {
   void hello() {
