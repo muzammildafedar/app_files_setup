@@ -9,7 +9,7 @@ A command-line tool that simplifies the task of creating and organizing the file
 
 #### Version 1.0.0 (10th Oct 2021)
 
-- Fixed issues.
+- Initial version.
 
 
 
