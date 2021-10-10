@@ -3,6 +3,7 @@ const String data_model =
 
 String packageIntro(String currentVersion) => '''
  //////////////////////////////////////////////////  
-     APP FILES SETUP (v$currentVersion)            
+          APP FILES SETUP (v$currentVersion)            
  /////////////////////////////////////////////////                       
    ''';
+String todo(String name) => "TODO: Add your $name code";

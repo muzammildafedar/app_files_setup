@@ -20,3 +20,5 @@ const String core_viewmodel = 'lib/core/viewmodels/viewmodel.dart';
 const String ui_shared = 'lib/ui/shared/buttons.dart';
 const String ui_views = 'lib/ui/views/login.dart';
 const String utils_cons = 'lib/utils/constant/colors.dart';
+const String router = 'lib/ui/router.dart';
+const String rout_path = 'lib/utils/constant/route_paths.dart';
