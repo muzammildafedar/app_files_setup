@@ -20,10 +20,12 @@ class Generate {
     try {
       new File(path).create(recursive: true).then((File file) {
         if (writeData == '') {
-          stdout.write("${file.toString()} file has successfully generated...");
+          stdout
+              .write("${file.toString()} file has successfully generated...\n");
         } else {
           file.writeAsString(writeData);
-          stdout.write("${file.toString()} file has successfully generated...");
+          stdout
+              .write("${file.toString()} file has successfully generated...\n");
         }
       });
     } catch (e) {
