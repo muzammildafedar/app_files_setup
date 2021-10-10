@@ -40,4 +40,4 @@ If you encounter any issues [please report them here](https://github.com/Mujmill
 
 ## :eyes: Example
 
-[![Video Example](https://i.imgur.com/ut7DDKd.png)]
+![Video Example](https://i.imgur.com/ut7DDKd.png)
