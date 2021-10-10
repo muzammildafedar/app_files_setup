@@ -11,25 +11,6 @@ A command-line tool that simplifies the task of creating and organizing the file
 
 - Fixed issue where success message printed even when exception occured (thanks to @happy-san)
 
-#### Version 0.9.1 (25th July 2021)
-
-- Upgraded `args` dependency to ^2.1.1 (thanks to @PiN73 and @comlaterra)
-- Upgraded `image` and `test` dependencies
-
-#### Version 0.9.0 (28th Feb 2021)
-
-- Null-safety support added (thanks to @SteveAlexander)
-- Added option to remove alpha channel for iOS icons (thanks to @SimonIT)
-
-#### Version 0.8.1 (2nd Oct 2020)
-
-- Fixed flavor support on windows (@slightfoot)
-
-#### Version 0.8.0 (12th Sept 2020)
-
-- Added flavours support (thanks to @sestegra & @jorgecoca)
-- Removed unassigned iOS icons (thanks to @melvinsalas)
-- Fixing formatting (thanks to @mreichelt)
 
 Want to see older changes? Be sure to check out the [Changelog](https://github.com/fluttercommunity/flutter_launcher_icons/blob/master/CHANGELOG.md).
 
@@ -41,12 +22,7 @@ Add your Flutter Launcher Icons configuration to your `pubspec.yaml` or create a
 An example is shown below. More complex examples [can be found in the example projects](https://github.com/fluttercommunity/flutter_launcher_icons/tree/master/example).
 ```yaml
 dev_dependencies:
-  flutter_launcher_icons: "^0.9.2"
-
-flutter_icons:
-  android: "launcher_icon"
-  ios: true
-  image_path: "assets/icon/icon.png"
+  flutter_launcher_icons: "^1.0.0"
 ```
 If you name your configuration file something other than `flutter_launcher_icons.yaml` or `pubspec.yaml` you will need to specify
 the name of the file when running the package.
