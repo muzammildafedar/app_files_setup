@@ -28,8 +28,8 @@ class Generate {
               .write("${file.toString()} file has successfully generated...\n");
         }
       });
-    } catch (e) {
-      print("Error: $e");
+    } catch (FileSystemException) {
+      print("Error: $FileSystemException");
     }
   }
 }
