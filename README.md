@@ -7,12 +7,11 @@ A command-line tool that simplifies the task of creating and organizing the file
 
 ## :sparkles: What's New
 
-#### Version 0.9.2 (22nd August 2021)
+#### Version 1.0.0 (10th Oct 2021)
 
-- Fixed issue where success message printed even when exception occured (thanks to @happy-san)
+- Fixed issues.
 
 
-Want to see older changes? Be sure to check out the [Changelog](https://github.com/fluttercommunity/flutter_launcher_icons/blob/master/CHANGELOG.md).
 
 ## :book: Guide
 
