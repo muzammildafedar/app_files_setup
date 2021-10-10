@@ -1,5 +1,5 @@
 
-[![pub package](https://img.shields.io/badge/Pub-v1.0.0-orange)](https://pub.dartlang.org/packages/flutter_launcher_icons)
+[![pub package](https://img.shields.io/badge/Pub-v1.0.0-orange)]()
 # App Files Setup
 
 A command-line tool that simplifies the task of creating and organizing the file structure. Fully flexible, allowing to create project files structure with only one command line.
