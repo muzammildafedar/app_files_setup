@@ -36,3 +36,8 @@ flutter pub run app_files_setup:start
 
 
 If you encounter any issues [please report them here](https://github.com/MujmillahammedDafedar/app_files_setup/issues).
+
+
+## :eyes: Example
+
+[![Video Example](https://i.imgur.com/ut7DDKd.png)]
