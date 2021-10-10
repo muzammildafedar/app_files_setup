@@ -12,7 +12,7 @@
 // utils
 //  --constant
 
-const String core = 'lib/core/data_model/api/sample.dart';
+const String core = 'lib/core/data_model/api/login.dart';
 const String core_enum = 'lib/core/enum/enum.dart';
 const String core_model = 'lib/core/model/login_model.dart';
 const String core_services = 'lib/core/services/api/api.dart';
