@@ -1,6 +1,6 @@
 name: app_files_setup
 description: A package that simplifies the task of organizing files and folders to quick start development.
-version: 1.0.0+1
+version: 1.0.1
 maintainer: Muzammil Dafedar(@MujmillahammedDafedar)
 homepage: https://github.com/MujmillahammedDafedar/app_files_setup
 
