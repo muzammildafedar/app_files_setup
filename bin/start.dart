@@ -6,9 +6,9 @@ import 'package:app_files_setup/main.dart' as start;
 
 void main(List<String> argument) {
   stdout.write(packageIntro('1.0.1'));
-  if (argument != null) {
-    start.startBuildingFiles(argument);
-  } else {
+  if (argument.isEmpty) {
     start.startBuildingFiles(fileNames);
+  } else {
+    start.startBuildingFiles(argument);
   }
 }
