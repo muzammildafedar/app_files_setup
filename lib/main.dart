@@ -1,9 +1,8 @@
 import 'dart:io';
 
 import 'package:app_files_setup/constant.dart';
-import 'package:app_files_setup/files.dart';
 
-startBuildingFiles() {
+startBuildingFiles(List<String> fileNames) {
   Generate create = Generate();
   for (int i = 0; i < fileNames.length; i++) {
     create.createFile(fileNames[i], todo(fileNames.toString()));
