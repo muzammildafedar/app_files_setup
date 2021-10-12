@@ -37,7 +37,7 @@ After setting up the configuration, all that is left to do is run the package.
 flutter pub get
 flutter pub run app_files_setup:start
 ```
-### Custom file organizing
+### Custom files organizing
 
 Pass filename as argument shown in below
 
