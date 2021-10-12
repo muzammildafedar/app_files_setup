@@ -5,16 +5,9 @@ import 'package:app_files_setup/files.dart';
 
 startBuildingFiles() {
   Generate create = Generate();
-  create.createFile(core, dataModel);
-  create.createFile(coreEnum, todo('enum'));
-  create.createFile(coreModel, todo('model'));
-  create.createFile(coreServices, todo('services'));
-  create.createFile(coreViewmodel, todo('viewmodel'));
-  create.createFile(uiShared, todo('shared widget'));
-  create.createFile(uiViews, todo('view'));
-  create.createFile(utilsCons, todo('constant'));
-  create.createFile(routPath, todo('route name constant'));
-  create.createFile(router, todo('route'));
+  for (int i = 0; i < fileNames.length; i++) {
+    create.createFile(fileNames[i], todo(fileNames.toString()));
+  }
 }
 
 class Generate {
